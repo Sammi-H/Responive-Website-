@@ -1,7 +1,7 @@
 # Responive-Website-
 Manage all your money in one appnode 
 
-## Project Overview (First time building a website )
+## Project Overview (First time building a website)
 
 **Web Application:** Manage All Your Money in One App
 
